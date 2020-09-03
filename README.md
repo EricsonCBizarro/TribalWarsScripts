@@ -1,0 +1,2 @@
+# TribalWarsScripts
+Scripts para tribalwars
